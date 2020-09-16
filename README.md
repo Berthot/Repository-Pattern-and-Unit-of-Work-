@@ -6,8 +6,8 @@
 ------------------------------------------------------------
 
 ```
-Estou realizando projetos pessoas, e quero aperfeiçõar meu aprendizando,
-e aprender mais sobre os tipos diversos patterns e saber quando utilizar 
+Estou realizando projetos pessoais, e quero aperfeiçõar meu aprendizando,
+e aprender mais sobre os diversos patterns e saber quando utilizar 
 cada um deles.
 ```
 
